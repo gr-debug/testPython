@@ -2,7 +2,7 @@ __author__='gr'
 # -- coding:utf-8 --
 #!/usr/bin/env python3
 
-#测试，修改一下。test
+#试，修改一下。test
 print("Type integer,each followed by Enter;or just Enter to finish")
 total = 0
 count = 0
